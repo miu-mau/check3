@@ -1,0 +1,38 @@
+ul { 
+    list-style-type: none;
+}
+dev{
+    display: block;
+    background-color: #e4bb34;
+    width: 310px;
+    height: 50px;
+}
+.block-3{
+    background-color: #e4bb34;
+    width: 310px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.tree span:hover{
+    font-weight: bold;
+}
+
+.tree span{
+    cursor: pointer;
+}
+.hide::before{
+    content: "+";
+}
+.show::before{
+    content: "-";
+}
+
+.box{
+    width: 310px;
+    height: 50px;
+    margin-left: 3.5%;
+    margin-top: auto; 
+    background-color: #e4bb34;
+    position: absolute;
+}
