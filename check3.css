@@ -1,7 +1,7 @@
 ul { 
     list-style-type: none;
 }
-dev{
+/* dev{
     display: block;
     background-color: #e4bb34;
     width: 310px;
@@ -12,7 +12,7 @@ dev{
     width: 310px;
     height: 50px;
     margin-top: 20px;
-}
+} */
 
 .tree span:hover{
     font-weight: bold;
